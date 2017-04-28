@@ -1,0 +1,13 @@
+how to use github.
+
+1,make work folder. ("medir ~~~")
+2,move it folder.("cd ./~~")
+3,please input "git init" to console .
+4,git add ~~~~ (you can make local lepository)
+5,git commit -m "comment" (ready to send to lepository)
+6,git config user.email ~~@~~
+7,git config user.name ~~
+8,git commit (send to file add you)
+9,git remokte add origin https://~~~
+10,git push origin master
+
